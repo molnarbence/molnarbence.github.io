@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to Brainstorm blog"
+date:   2021-04-09 19:32:41 +0000
+categories: chitchat
+---
+I have to admit, I'm 32 years old and I haven't published anything about my work or my enthusiasm for software engineering. I've been thinking about this for a while, and decided that 2021 is the year to put my thoughts into words.
+
+I started my software engineering career in 2010 at an IT startup. Rookie, 0 mile developer with full of enthusiasm
